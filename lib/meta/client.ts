@@ -1,5 +1,3 @@
-'use server';
-
 interface MetaToken {
   access_token: string;
   token_type?: string;
